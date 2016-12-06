@@ -1,1 +1,1 @@
-print("Hello C")
+Print("Hello c")
